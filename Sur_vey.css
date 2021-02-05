@@ -1,0 +1,65 @@
+body
+{
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    font-weight:lighter;
+    font-size: 1.1em;
+}
+div
+{
+    width:75%;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 0.8em;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+h1
+{
+    text-align: center;
+    margin-top: 1.3em;
+}
+fieldset
+{
+    width: 90%;
+    margin: auto;
+    margin-top: 0.8em;
+    border:1px solid gray;
+}
+p
+{
+    margin: auto;
+}
+#note
+{
+    margin-left: 1.7em;
+}
+span
+{
+    font-weight: bold;
+}
+input
+{
+    margin-top: 1.2em;
+}
+.lass
+{
+    margin-bottom: 1.2em;
+}
+#subm,#files
+{
+    margin: .5em;
+    font-size: 1em;
+    text-transform: capitalize;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+    text-align: center;
+}
+#subm
+{
+   
+}
